@@ -1,0 +1,6 @@
+2023/03/05-09:49:37.732 153df Creating DB /home/user/.config/google-chrome/Profile27/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2023/03/05-09:49:37.735 153df Reusing MANIFEST /home/user/.config/google-chrome/Profile27/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/05-09:49:44.610 153e4 Level-0 table #5: started
+2023/03/05-09:49:44.612 153e4 Level-0 table #5: 530 bytes OK
+2023/03/05-09:49:44.613 153e4 Delete type=0 #3
+2023/03/05-09:49:44.614 153e2 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

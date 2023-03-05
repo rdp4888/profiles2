@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Chrome (Profile21)
+Exec=google-chrome --profile-directory='Profile21' %U
+Terminal=false
+Icon=google-chrome
+Type=Application
+Categories=Network;WebBrowser;

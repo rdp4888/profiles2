@@ -1,0 +1,25 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icon-19.png",
+         "38": "icon-38.png"
+      },
+      "default_title": "Video Looper"
+   },
+   "description": "This extension lets you automatically replay (loop) videos on Youtube, Dailymotion and other sites that use HTML5",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxGsrBvsqcK4Ly/M2GTd/p24wWPPhvfQ4/GeEJwCH+lGL6YdGU+Kbf1DUdHG0M5Saa+W+wPgDBwh8Lm9fAVIhqKChyXDi/ij6sI/RYt721SX2W3BZ2oyTLlHzAaGgMqZJYsU0TPNKOc5G+3W73WiLVTyzjDIcZyJYTQwWND/WaAEPCLSPkbQQod+cs1ScjfX2QCgMKK8j/vk5weHnbgbNoPqwkPH0S18yku4jh3z+6yNyi6+9uNb/6oBS41cCcn5JcDSBtzJ6n/9+vrqxtGjiQV/gbgQCe96ZdrLPoFnou1fJmAv3dOCZo4YBOImZmHdYCgvyMt6Psh4zC9LBZ2iWBwIDAQAB",
+   "manifest_version": 2,
+   "name": "Video Looper for Youtube/Dailymotion/others",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2015.12.30.0"
+}

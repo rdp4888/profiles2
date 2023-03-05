@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Chrome (Profile10)
+Exec=google-chrome --profile-directory='Profile10' %U
+Terminal=false
+Icon=google-chrome
+Type=Application
+Categories=Network;WebBrowser;
